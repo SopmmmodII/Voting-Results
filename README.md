@@ -1,7 +1,7 @@
 # Voting-Results
 Amazon mturk voting results
 #
-First Questionnaire on Frequently Travelled Route
+First Questionnaire on Frequently Traveled Route
 ![Route Memory-Voting layout](https://github.com/cyfggnn22/Voting-Results/blob/master/Route%20Memory-Voting%20layout-1.png)
 ![Route Memory-Voting layout-2](https://github.com/cyfggnn22/Voting-Results/blob/master/Route%20Memory-Voting%20layout-2.png)
 Second Questionnaire on Route Memory
